@@ -1,0 +1,18 @@
+package sintaxe_fluxo;
+
+public class PontoFlutuante {
+	public static void main(String[] args) {
+		
+		double salario = 1750.50;
+		double area = 3.14 * (5 * 5);
+		
+		System.out.println("O meu primo ganha como pedreiro R$" + salario);
+		
+		System.out.println("O círculo que eu tinha visto tinha área de " + area + " cm²");
+		
+		double divisao = 5 / 2.0;
+		System.out.println(divisao);
+		
+		
+	}
+}
