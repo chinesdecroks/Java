@@ -1,0 +1,14 @@
+package sintaxe_fluxo;
+
+public class testaVariável {
+	public static void main(String[] args) {
+		
+		System.out.println("Hello new teste");
+		
+		
+	}
+	
+	
+	
+	
+}

@@ -1,0 +1,19 @@
+package sintaxe_fluxo;
+
+public class TestaConversao {
+	public static void main(String[] args) {
+		double salario = 1750.50;
+		int valor = (int) salario;
+		//int = 32bit = 2bi
+		//long = 64bit = 2bi²L
+		//short = 16bit
+		//byte = 8bit
+		
+		System.out.println(salario);
+		
+		float n1 = 0.1f;
+		float n2 = 0.2f;
+		double soma = n1 + n2;
+		System.out.println(soma);
+	}
+}

@@ -1,0 +1,10 @@
+package sintaxe_fluxo;
+
+public class TestaConversao {
+	public static void main(String[] args) {
+		int salario = 3000000000;
+		//int valor = (int) salario;
+		
+		System.out.println(salario);
+	}
+}

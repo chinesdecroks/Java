@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="bytecode.Conta"/>
+    <fullyQualifiedTypeName name="bytebank_encapsulado.Cliente"/>
+    <fullyQualifiedTypeName name="bytebank_encapsulado.Conta"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.FuncionarioTeste"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.SistemaInterno"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.EditorDeVideo"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.FuncionarioAutenticavel"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.Funcionario"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.Cliente"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.Autenticavel"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.Administrador"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.Gerente"/>
+    <fullyQualifiedTypeName name="bytebank_herdado.AutenticacaoUtil"/>
+    <fullyQualifiedTypeName name="bytebank_herdado_conta.Tributavel"/>
+    <fullyQualifiedTypeName name="bytebank_herdado_conta.ContaCorrente"/>
+    <fullyQualifiedTypeName name="bytebank_herdado_conta.SeguroDeVida"/>
+    <fullyQualifiedTypeName name="bytebank_herdado_conta.CalculadorDeImposto"/>
+</qualifiedTypeNameHistroy>
