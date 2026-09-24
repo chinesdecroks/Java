@@ -1,6 +1,0 @@
-INDEX VERSION 1.132+/home/luska/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-2949097923.index
-1865797976.index
-1748679790.index
-548959396.index
-1164314011.index

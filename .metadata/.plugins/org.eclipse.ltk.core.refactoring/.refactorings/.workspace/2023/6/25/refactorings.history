@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;bytebank_herdado_conta/bin/bytebank_herdado_conta/TesteConta.class&apos;" deleteContents="false" description="Delete resource &apos;bytebank_herdado_conta/bin/bytebank_herdado_conta/TesteConta.class&apos;" element1="/bytebank_herdado_conta/bin/bytebank_herdado_conta/TesteConta.class" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1687383414523"/>
-</session>
